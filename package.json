@@ -1,0 +1,22 @@
+{
+  "name": "hrpoints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brockcrafted/hrpoints.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brockcrafted/hrpoints/issues"
+  },
+  "homepage": "https://github.com/brockcrafted/hrpoints#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
